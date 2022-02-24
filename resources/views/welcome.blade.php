@@ -81,8 +81,13 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Web Framework
                 </div>
+                <div>
+                    <a href="/login">login</a>
+                </div>
+
+                <br>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
